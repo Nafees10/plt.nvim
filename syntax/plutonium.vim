@@ -60,7 +60,7 @@ syntax keyword plutoniumErrors
 highlight default link plutoniumKeywords Keyword
 highlight default link plutoniumBool Boolean
 highlight default link plutoniumConsts Constant
-highlight default link plutoniumErrors Error
+highlight default link plutoniumErrors Type
 
 syntax match plutoniumNumber "\v<\d+(.\d+(e\d+)?)?>"
 syntax match plutoniumComment "#.*$"
