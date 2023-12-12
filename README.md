@@ -1,6 +1,7 @@
-# plt.nvim
+# zu.nvim
 
-Plutonium syntax highlighting for Vim/Neovim.
+[Zuko Programming Language](https://github.com/shehryar49/zuko)
+syntax highlighting for Vim/Neovim.
 
 ## Installation
 
