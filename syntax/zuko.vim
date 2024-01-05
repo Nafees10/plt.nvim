@@ -65,7 +65,7 @@ highlight default link zukoErrors Type
 syntax match zukoNumber "\v<\d+(.\d+(e\d+)?)?>"
 syntax match zukoComment "#.*$"
 syntax region zukoMultilineComment start="#-" end="-#"
-syntax region zukoString start="\"" end="\"" skip="\\\""
+syntax region zukoString start="\"" end="\"" skip="\\\\|\\\""
 syntax match zukoIdentifier "\v<[a-zA-Z_]+[A-Za-z0-9_]+>"
 
 highlight default link zukoNumber Number
