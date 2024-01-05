@@ -1,4 +1,4 @@
-# zu.nvim
+# zuko.nvim
 
 [Zuko Programming Language](https://github.com/shehryar49/zuko)
 syntax highlighting for Vim/Neovim.
