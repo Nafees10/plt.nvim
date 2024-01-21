@@ -7,3 +7,5 @@ syntax highlighting for Vim/Neovim.
 
 Place the `ftdetect`, `ftplugin`, and `syntax` directories in 
 `~/.config/nvim/`, merge with existing directories if any.
+
+Or just run the `./link.sh` script.
